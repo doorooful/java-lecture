@@ -1,4 +1,4 @@
-# 📚 java-lecture
+# 📚 java lecture note
 java quizes and sample answer code for lecture <br>
 _Grade: Beginners_
 
