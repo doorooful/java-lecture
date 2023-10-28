@@ -8,13 +8,13 @@ B. primitive types <br>
 C. String class <br>
 D. formatting <br>
 
-## 📒 02. Control Statments(1)
+## 📒 02. Control Statements(1)
 A. input and Scanner class <br>
 B. if statement <br>
 C. ternary operatror <br>
 D. switch-case statement <br>
 
-## 📘 03. Control Statments(2)
+## 📘 03. Control Statements(2)
 A. while statement <br>
 B. do-while statement <br>
 C. for statement <br>
